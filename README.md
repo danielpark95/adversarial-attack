@@ -3,7 +3,6 @@
 Python 3 implementation of Carlini & Wagner's algorithm (https://arxiv.org/abs/1608.04644).
 
 ![Adversarial Attack](img/adversarial_attack.png)
-
 The parameters and variables in Adversarial-Attack.ipynb follow the notation in the paper.
 
 **Distance Metric**   
