@@ -12,3 +12,5 @@ Find delta that solves: min ||delta||2 + c * f(x + delta), such that x+delta is 
 delta_i = 1/2 (tanh(w_i)+1) - x_i.
 
 [[https://github.com/danielpark95/adversarial-attack/blob/master/img/adversarial_attack.png]]
+
+![Alt text](blob/master/img/adversarial_attack.png?raw=true "Title")
