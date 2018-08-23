@@ -1,4 +1,4 @@
-# Creating Adversarial Images in TensorFlow
+# Breaking Neural Networks
 
 Implementation of Carlini & Wagner's algorithm (https://arxiv.org/abs/1608.04644).
 
