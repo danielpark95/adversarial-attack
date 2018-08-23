@@ -1,4 +1,4 @@
-# Breaking Neural Networks
+# Creating adversarial images to fool an MNIST classifier
 
 Implementation of Carlini & Wagner's algorithm (https://arxiv.org/abs/1608.04644).
 
