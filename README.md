@@ -8,6 +8,5 @@ L2 distance between x and x' is computed ||x - x'||_2.
 **Objective Function**   
 Find delta that solves: min ||delta||_2 + c * f(x + delta), such that x+delta is a subset of [0,1]^n.
 
-**Box Constraints**
-
+**Box Constraint**
 delta_i = 1/2 (tanh(w_i)+1) - x_i.
