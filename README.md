@@ -11,5 +11,3 @@ Find delta that solves: min ||delta||_2 + c * f(x + delta), such that x+delta is
 **Box Constraints**
 
 delta_i = 1/2 (tanh(w_i)+1) - x_i.
-
--1 <= tanh(w_i) <= 1, so 0 <= x_i + delta_i <= 1.
